@@ -1,0 +1,19 @@
+{
+  "name": "cadastro",
+  "version": "1.0.0",
+  "description": "Esse e um projeto de cadastro de usuarios com Node + Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ryan",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^6.16.1",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "prisma": "^6.16.1"
+  }
+}
